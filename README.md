@@ -31,6 +31,9 @@ Utilizing the MS COCO 2017 dataset, we applied modifications to better suit our 
 ### Results
 The enhanced YOLOv8 model demonstrated a robust balance between speed and accuracy, showing great promise for real-time pedestrian detection in autonomous vehicle systems.
 
+### Project Report
+For a detailed analysis and comprehensive results, refer to the "report.pdf" which is included in this repository. The report provides an in-depth review of the project's methodologies, data handling, and experimental outcomes.
+
 ### Installation and Usage
 Detailed setup instructions, including environment configuration and model execution, are provided in the notebook.
 
