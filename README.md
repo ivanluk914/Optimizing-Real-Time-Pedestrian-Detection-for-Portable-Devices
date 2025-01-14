@@ -1,4 +1,4 @@
-# Optimizing-Real-Time-Pedestrian-Detection-for-Portable-Devices
+# Optimizing YOLOv8 for Real-Time Pedestrian Detection in Limited Capabilities Hardware
 
 ### Introduction
 This repository is part of Team New Bee's efforts for the COMP9444 course at UNSW, focusing on the development and benchmarking of a real-time pedestrian detection system for autonomous vehicles. This project aims to improve the safety and functionality of autonomous navigation systems through advanced computer vision techniques.
